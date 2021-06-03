@@ -1,0 +1,43 @@
+.params .u {
+    background: #111111;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.params {
+    font-size: 14px;
+    color: #CCCCCC;
+}
+
+html, body {
+    background-color: #171719;
+    height: 100%;
+    color: white;
+    font-family: Arial;
+    font-size: 12px;
+    min-width: 1000px;
+    padding: 0;
+    margin: 0;
+}
+
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+}
+
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+.params .b {
+    font-weight: bold;
+    text-align: right;
+    padding-right: 5px;
+    color: #FFFFFF;
+}
